@@ -1,0 +1,27 @@
+{
+  "name": "to-color-filter",
+  "version": "1.0.0",
+  "authors": [
+    "tcarlsen <thomascarlsen86@gmail.com>"
+  ],
+  "description": "a Angular filter to transform strings into hex colors",
+  "main": "dist/to-color-filter.min.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "angular",
+    "filter",
+    "hex",
+    "color"
+  ],
+  "license": "Apache",
+  "homepage": "https://github.com/tcarlsen/to-color-filter",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
