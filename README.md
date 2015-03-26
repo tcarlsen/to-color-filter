@@ -1,4 +1,4 @@
-# toColorFilter
+# toColorFilter :art:
 
 > a Angular filter to transform strings into hex colors
 
