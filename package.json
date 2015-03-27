@@ -1,6 +1,6 @@
 {
   "name": "to-color-filter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a Angular filter to transform strings into hex colors",
   "main": "dist/to-color-filter.min.js",
   "repository": {
