@@ -1,7 +1,7 @@
 angular.module "toColorFilter", []
   .filter "tocolor", ->
     (input) ->
-      return if input is ""
+      return if !input
 
       hash = (word) ->
         h = 0
